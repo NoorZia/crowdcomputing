@@ -1,4 +1,4 @@
-#CS4145 Crowd Computing (2018/19 Q4)
+# CS4145 Crowd Computing (2018/19 Q4)
 Glance : Text Summary Generator for Online Video Sources
 
 (Code repository for final project of TU Delft course crowd computing)
